@@ -1,0 +1,18 @@
+{
+  "name": "DSSystems BSC List",
+  "timestamp": "2026-02-19T00:00:00+00:00",
+  "version": { "major": 1, "minor": 0, "patch": 0 },
+  "tags": {},
+  "logoURI": "https://addtoken.netlify.app/TUSDT_transparent_uncropped_fin.png",
+  "keywords": ["bsc", "defi", "dssystems"],
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0x887D769B4bE42151d8867F1c01837A1E6f7D4ff8",
+      "name": "Tether USD (BSC)",
+      "symbol": "USDT",
+      "decimals": 18,
+      "logoURI": "https://addtoken.netlify.app/TUSDT_transparent_uncropped_fin.png"
+    }
+  ]
+}
