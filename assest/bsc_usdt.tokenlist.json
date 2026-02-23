@@ -3,7 +3,7 @@
   "timestamp": "2026-02-19T00:00:00+00:00",
   "version": { "major": 1, "minor": 0, "patch": 0 },
   "tags": {},
-  "logoURI": "https://addtoken.netlify.app/TUSDT_transparent_uncropped_fin.png",
+  "logoURI": "https://boyarskibrjdetc.github.io/DSSystems/assest/tusdt_transparent_uncropped_fin_256x256.png",
   "keywords": ["bsc", "defi", "dssystems"],
   "tokens": [
     {
@@ -12,7 +12,7 @@
       "name": "Tether USD (BSC)",
       "symbol": "USDT",
       "decimals": 18,
-      "logoURI": "https://addtoken.netlify.app/TUSDT_transparent_uncropped_fin.png"
+      "logoURI": "https://boyarskibrjdetc.github.io/DSSystems/assest/tusdt_transparent_uncropped_fin_256x256.png"
     }
   ]
 }
